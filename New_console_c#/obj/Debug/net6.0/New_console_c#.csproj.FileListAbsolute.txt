@@ -1,0 +1,15 @@
+F:\Developer\C#\New_console_c#\bin\Debug\net6.0\New_console_c#.exe
+F:\Developer\C#\New_console_c#\bin\Debug\net6.0\New_console_c#.deps.json
+F:\Developer\C#\New_console_c#\bin\Debug\net6.0\New_console_c#.runtimeconfig.json
+F:\Developer\C#\New_console_c#\bin\Debug\net6.0\New_console_c#.dll
+F:\Developer\C#\New_console_c#\bin\Debug\net6.0\New_console_c#.pdb
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.csproj.AssemblyReference.cache
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.AssemblyInfoInputs.cache
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.AssemblyInfo.cs
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.csproj.CoreCompileInputs.cache
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.dll
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\refint\New_console_c#.dll
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.pdb
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\New_console_c#.genruntimeconfig.cache
+F:\Developer\C#\New_console_c#\obj\Debug\net6.0\ref\New_console_c#.dll
